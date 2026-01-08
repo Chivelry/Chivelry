@@ -57,7 +57,7 @@
 <table><tr><td valign="top" width="50%">
 
 <p align="center">
-  ![Stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Chivelry&show_icons=true&theme=radical)
+  ![Metrics](https://metrics.lecoq.io/Chivelry?template=classic&base.header=1&base.activity=1&base.community=1&base.repositories=1&base.metadata=1&config.timezone=Europe%2FIstanbul)
 </p>
 
 </td></tr></table>  
