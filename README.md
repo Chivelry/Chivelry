@@ -57,7 +57,9 @@
 <table><tr><td valign="top" width="50%">
 
 <p align="center">
-  ![Metrics](https://metrics.lecoq.io/Chivelry?template=classic&base.header=1&base.activity=1&base.community=1&base.repositories=1&base.metadata=1&config.timezone=Europe%2FIstanbul)
+  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chivelry&layout=compact&theme=tokyonight)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=Chivelry&show_icons=true&theme=tokyonight)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chivelry&theme=tokyonight)
 </p>
 
 </td></tr></table>  
