@@ -57,9 +57,9 @@
 <table><tr><td valign="top" width="50%">
 
 <p align="center">
-  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chivelry&layout=compact&theme=tokyonight)
-  ![Stats](https://github-readme-stats.vercel.app/api?username=Chivelry&show_icons=true&theme=tokyonight)
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chivelry&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chivelry&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chivelry&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chivelry&theme=tokyonight"/>
 </p>
 
 </td></tr></table>  
