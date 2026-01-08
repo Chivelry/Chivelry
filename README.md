@@ -57,8 +57,7 @@
 <table><tr><td valign="top" width="50%">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chivelry&show_icons=true&theme=radical" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chivelry&layout=compact&theme=radical" width="300" />
+  ![Stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Chivelry&show_icons=true&theme=radical)
 </p>
 
 </td></tr></table>  
