@@ -1,6 +1,6 @@
 
 ## Hello there I'm Eren Can Nural, i am a Frontend Developer 👋  
-<img src="https://s3.ezgif.com/tmp/ezgif-354c2dbf226e9a30.gif" align="left" style="width: 100%" />  
+<img src="https://s3.ezgif.com/tmp/ezgif-354c2dbf226e9a30.gif" align="center" style="width: 100%; display: block;" />  
   
 
 <br/>  
