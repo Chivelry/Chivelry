@@ -49,28 +49,3 @@
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="75" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
 </div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/Chivelry?template=classic&base=header,activity,community,repositories,metadata&languages=1&languages.limit=8&languages.sections=most-used&theme=tokyonight" width="100%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chivelry&theme=tokyonight&area=true" width="100%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chivelry&theme=dark"/>
-</p>
-
-</td></tr></table>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=chivelry&&style=flat-square" align="center" />
-</div>  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
