@@ -57,8 +57,8 @@
 <table><tr><td valign="top" width="50%">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chivelry&layout=compact&theme=dark"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Chivelry&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Chivelry&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Chivelry&show_icons=true&theme=dark"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chivelry&theme=dark"/>
 </p>
 
